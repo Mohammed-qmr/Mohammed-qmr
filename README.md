@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed
 
-**📱 Android & Mobile Developer | Flutter Specialist**
+**📱 Android &  Flutter  Mobile Developer 
 
 I’m a passionate developer focused on building modern mobile applications using Flutter and Android technologies.
 I love creating real-world apps, solving problems, and continuously improving my skills.
