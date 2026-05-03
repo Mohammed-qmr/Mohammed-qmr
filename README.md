@@ -3,55 +3,55 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=default" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=default" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=dark" />
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=radical" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=merko" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=dark" />
 </td>
 </tr>
 
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=gruvbox" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=radical" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=tokyonight" />
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=onedark" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=cobalt" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=merko" />
 </td>
 </tr>
 
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=synthwave" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=gruvbox" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=highcontrast" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=tokyonight" />
 </td>
 </tr>
 
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=dracula" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=onedark" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=prussian" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=cobalt" />
+</td>
+</tr>
+
+<tr>
+<td>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=synthwave" />
+</td>
+<td>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=highcontrast" />
+</td>
+</tr>
+
+<tr>
+<td>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=dracula" />
+</td>
+<td>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=prussian" />
 </td>
 </tr>
 </table>
