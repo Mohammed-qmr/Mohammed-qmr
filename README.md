@@ -26,12 +26,10 @@ I love creating real-world apps, solving problems, and continuously improving my
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-qmr&layout=compact&theme=tokyonight" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-qmr\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-qmr\&layout=compact\&theme=tokyonight\&cache_seconds=1800)
+
 
 ## 🚀 Featured Projects
 
