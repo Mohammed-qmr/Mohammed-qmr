@@ -1,9 +1,19 @@
+# Hi 👋, I'm Mohammed
+
+💻 Software Developer  
+🚀 Passionate about coding and building projects  
+
+## 🛠️ Skills
+- JavaScript
+- Python
+- Flutter
+- HTML / CSS
+
 ## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&theme=radical)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-qmr\&theme=radical)
+## 🚀 Projects
+- Add your best projects here
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-qmr\&theme=dark)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-qmr\&theme=tokyonight)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-qmr\&theme=dracula)
+## 📫 Contact
+- LinkedIn: ...
