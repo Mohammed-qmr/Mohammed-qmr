@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed
 
-📱 Android &  Flutter  Mobile Developer 
+**📱 Android & Mobile Developer | Flutter Specialist**
 
 I’m a passionate developer focused on building modern mobile applications using Flutter and Android technologies.
 I love creating real-world apps, solving problems, and continuously improving my skills.
@@ -26,10 +26,12 @@ I love creating real-world apps, solving problems, and continuously improving my
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-qmr\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-qmr&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-qmr\&layout=compact\&theme=tokyonight\&cache_seconds=1800)
-
+---
 
 ## 🚀 Featured Projects
 
@@ -42,7 +44,7 @@ I love creating real-world apps, solving problems, and continuously improving my
 ## 🌐 Connect with me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/mohammedabuqamer/
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: [mma.mqamar@gmail.com](mailto:your-email@example.com)
 
 ---
 
