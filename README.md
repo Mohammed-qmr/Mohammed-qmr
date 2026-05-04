@@ -1,25 +1,30 @@
 # 👋 Hi, I'm Mohammed
 
-**📱 Android & Mobile Developer | Flutter Specialist**
-
-I’m a passionate developer focused on building modern mobile applications using Flutter and Android technologies.
-I love creating real-world apps, solving problems, and continuously improving my skills.
+🚀 **Mobile Developer (Flutter & Android)** focused on building scalable, high-performance applications.
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-* 📱 Focused on Mobile App Development
-* 🔥 Specialized in Flutter & Android
-* 💡 Interested in UI/UX & performance optimization
-* 🎯 Goal: Become a professional mobile developer
+- 📱 Passionate about Mobile Development (Flutter & Android)
+- 🏗 Focused on Clean Architecture & scalable apps
+- ⚡ Interested in performance optimization & UI/UX
+- 🎯 Currently building real-world production-level apps
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I'm Working On
+
+- 🔥 Building a **Movie App (Flutter)** with API integration
+- 💬 Developing a **Real-time Chat App (Firebase)**
+- 🧠 Improving my skills in **Clean Architecture & State Management**
+
+---
+
+## 🛠 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java,firebase,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,firebase,git,github,figma" />
 </p>
 
 ---
@@ -27,25 +32,24 @@ I love creating real-world apps, solving problems, and continuously improving my
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-qmr&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-qmr&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
-* 📱 Mobile App (Flutter) – Add your project
-* 🔥 Android App – Add your project
-* 💡 UI Design Project – Add your project
+🚧 Coming soon – currently building high-quality production apps  
+(Stay tuned 👀)
 
 ---
 
 ## 🌐 Connect with me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/mohammedabuqamer/
-* 📧 Email: [mma.mqamar@gmail.com](mailto:your-email@example.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammedabuqamer/
+- 📧 Email: mma.mqamar@gmail.com
 
 ---
 
-⭐ From [Mohammed-qmr](https://github.com/Mohammed-qmr)
+⭐ Always learning, always building.
