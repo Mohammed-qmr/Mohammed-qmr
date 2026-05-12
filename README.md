@@ -46,15 +46,7 @@ Building scalable, high-performance mobile applications with a strong focus on c
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-qmr&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-qmr&theme=tokyonight&margin-w=10&margin-h=10" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
