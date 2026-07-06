@@ -1,10 +1,11 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d2e,100:1a7a4c&height=200&section=header&text=Mohammed%20Abu%20Qamer&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
-Flutter & Android Developer • Kotlin • MVVM • Clean Architecture
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&width=600&lines=Flutter+Developer;Android+Developer;Clean+Architecture+Enthusiast;Firebase+%26+Real-time+Apps" />
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Mohammed-qmr&label=Profile%20Views&color=1a7a4c&style=flat"/>
-</div>
+h1 align="center">Mohammed Abu Qamer</h1>
+<h3 align="center">Flutter & Android Developer</h3>
+<p align="center">
+Building scalable, high-performance mobile applications with a strong focus on clean architecture, modern UI/UX, and production-ready solutions.
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&width=500&lines=Flutter+Developer;Android+Developer;Clean+Architecture+Enthusiast;Firebase+%26+Real-time+Apps" />
+</p>
 ---
 ## 🚀 About Me
 * 📱 Mobile Developer specialized in Flutter & Android
@@ -44,7 +45,5 @@ Flutter & Android Developer • Kotlin • MVVM • Clean Architecture
 </p>
 ---
 <p align="center">
-⭐ Passionate about building impactful mobile experiences.
-</p>
 ⭐ Passionate about building impactful mobile experiences.
 </p>
