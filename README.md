@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&width=600&lines=Flutter+Developer;Android+Developer;Clean+Architecture+Enthusiast;Firebase+%26+Real-time+Apps" />
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Mohammed-qmr&label=Profile%20Views&color=1a7a4c&style=flat"/>
 </div>
----
  
 ## 👋 About Me
  
