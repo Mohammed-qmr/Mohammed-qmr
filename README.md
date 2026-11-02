@@ -1,71 +1,73 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d2e,100:1a7a4c&height=200&section=header&text=Mohammed%20Abu%20Qamar&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
- Flutter & Android Developer • Kotlin • MVVM • Clean Architecture
- 
-<img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&width=600&lines=Flutter+Developer;Android+Developer;Clean+Architecture+Enthusiast;Firebase+%26+Real-time+Apps" />
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Mohammed-qmr&label=Profile%20Views&color=1a7a4c&style=flat"/>
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d2e,100:1a7a4c&height=120&section=header&text=Mohammed%20Abu%20Qamar&fontSize=32&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+
+### Flutter & Android Developer
+
+**Flutter · Dart · Kotlin · Clean Architecture · Firebase**
+
+Mobile developer building Android and cross-platform applications, with experience contributing to collaborative software projects.
+
+[LinkedIn](https://www.linkedin.com/in/mohammedabuqamer/) · [Email](mailto:mma.mqamar@gmail.com)
+
 </div>
- 
-## 👋 About Me
- 
-Mobile Developer focused on building **clean, scalable, and production-ready applications**.
-Strong experience with **Flutter**, **Kotlin/Android**, and **Firebase real-time systems**.
-I care about **code quality**, **performance**, and **maintainability**.
- 
+
 ---
- 
-## 🧩 Core Skills
- 
-- MVVM, MVI / Clean Architecture
-- Flutter & Dart
-- Kotlin & Android (Jetpack)
-- Firebase (Auth, Firestore, Realtime DB)
-- REST API Integration
-- State Management (Provider, Bloc, Riverpod)
-- Git & GitHub / CI-CD (GitHub Actions)
+
+## Selected Work
+
+### [Masar Go](https://github.com/Masar-go/masar-go) — Flutter Car Rental Platform
+
+`Flutter` `Dart` `Firebase` `BLoC` `Clean Architecture`
+
+A team-developed car rental application built using a modular, feature-first architecture.
+
+**My contributions:** Authentication workflows, profile functionality, navigation, reusable UI components, and development tooling.
+
+[Repository](https://github.com/Masar-go/masar-go) · [My Pull Requests](https://github.com/Masar-go/masar-go/pulls?q=author%3AMohammed-qmr)
+
+### [Movio](https://github.com/MadridSquad/Movio) — Android Movie Application
+
+`Kotlin` `Android` `UI Development`
+
+**My contributions:** Login UI, search and filter components, movie details bottom sheets, animated categories, refactoring, and UI bug fixes.
+
+[Repository](https://github.com/MadridSquad/Movio) · [My Pull Requests](https://github.com/MadridSquad/Movio/pulls?q=author%3AMohammed-qmr)
+
+### [Tudee](https://github.com/S-Qudus/Tudee) — Task Management Application
+
+`Kotlin` `Android` `UI Components`
+
+**My contributions:** Priority UI components and category-based task screen interactions.
+
+[Repository](https://github.com/S-Qudus/Tudee) · [My Pull Requests](https://github.com/S-Qudus/Tudee/pulls?q=author%3AMohammed-qmr)
+
 ---
- 
-## 🔥 Current Focus
- 
-- 🚀 Developing production-level Flutter applications
-- 💬 Building real-time systems using Firebase
-- 🏛 Improving software architecture & state management skills
-- ⚡ Exploring advanced mobile app optimization techniques
+
+## Other Team Contributions
+
+| Project | My Contribution |
+|---|---|
+| [PlanMate](https://github.com/London-Squad/PlanMate) | CLI state management, input validation, and refactoring |
+| [Food Change Mood](https://github.com/London-Squad/Food-Change-Mood-Gradle) | Use-case and view-level testing |
+| [Clothes Suggester](https://github.com/London-Squad/ClothesSuggester) | Layered architecture, recommendation logic, and CLI implementation |
+
 ---
- 
-## 🛠 Tech Stack
- 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,firebase,git,github,figma,androidstudio" />
-</p>
+
+## Technical Expertise
+
+**Mobile:** Flutter, Dart, Kotlin, Android
+
+**Architecture:** Clean Architecture, MVVM, Layered Architecture
+
+**State Management:** BLoC, Cubit
+
+**Backend & APIs:** Firebase, REST APIs, Dio
+
+**Engineering:** Git, Pull Requests, Refactoring, Debugging, Unit Testing
+
 ---
- 
-## 📊 GitHub Stats
- 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammed-qmr&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-qmr&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
----
- 
-## 🚀 Featured Projects
- 
-- 🎬 **Movie App** — Flutter application with REST API integration
-- 💬 **Real-time Chat App** — Firebase-powered messaging system
-- 📱 **Production-ready mobile apps** — built with Clean Architecture
----
- 
-## 🌐 Connect With Me
- 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammedabuqamer/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:mma.mqamar@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-<div align="center">
-⭐ Passionate about building impactful mobile experiences.
- 
-</div>
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/mohammedabuqamer/) · [Email](mailto:mma.mqamar@gmail.com) · [GitHub](https://github.com/Mohammed-qmr)
