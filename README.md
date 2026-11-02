@@ -16,7 +16,7 @@ Mobile developer building Android and cross-platform applications, with experien
 
 ## Selected Work
 
-### [Masar Go](https://github.com/Masar-go/masar-go) — Flutter Car Rental Platform
+### [Masar Go](https://github.com/Masar-go/masar-go)  Flutter Car Rental Platform
 
 `Flutter` `Dart` `Firebase` `BLoC` `Clean Architecture`
 
@@ -26,7 +26,7 @@ A team-developed car rental application built using a modular, feature-first arc
 
 [Repository](https://github.com/Masar-go/masar-go) · [My Pull Requests](https://github.com/Masar-go/masar-go/pulls?q=author%3AMohammed-qmr)
 
-### [Movio](https://github.com/MadridSquad/Movio) — Android Movie Application
+### [Movio](https://github.com/MadridSquad/Movio) Android Movie Application
 
 `Kotlin` `Android` `UI Development`
 
@@ -34,7 +34,7 @@ A team-developed car rental application built using a modular, feature-first arc
 
 [Repository](https://github.com/MadridSquad/Movio) · [My Pull Requests](https://github.com/MadridSquad/Movio/pulls?q=author%3AMohammed-qmr)
 
-### [Tudee](https://github.com/S-Qudus/Tudee) — Task Management Application
+### [Tudee](https://github.com/S-Qudus/Tudee) Task Management Application
 
 `Kotlin` `Android` `UI Components`
 
