@@ -8,7 +8,6 @@
 
 Building mobile applications with a focus on maintainable architecture, intuitive user experiences, and collaborative software development.
 
-[LinkedIn](https://www.linkedin.com/in/mohammedabuqamer/) · [Email](mailto:mma.mqamar@gmail.com)
 
 </div>
 
