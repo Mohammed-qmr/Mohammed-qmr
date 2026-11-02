@@ -8,7 +8,7 @@
 
 Mobile developer building Android and cross-platform applications, with experience contributing to collaborative software projects.
 
-[LinkedIn](https://www.linkedin.com/in/mohammedabuqamer/) · [Email](mailto:mma.mqamar@gmail.com)
+
 
 </div>
 
